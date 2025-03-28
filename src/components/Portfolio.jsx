@@ -15,11 +15,11 @@ const Portfolio = () => {
       { name: 'Python', icon: '/path/to/python-icon.png' },
       { name: 'JavaScript', icon: '/path/to/javascript-icon.png' },
       { name: 'Java', icon: '/path/to/java-icon.png' },
-      { name: 'C', icon: '/path/to/java-icon.png' },
-      { name: 'SQL', icon: '/path/to/java-icon.png' },
-      { name: 'PHP', icon: '/path/to/java-icon.png' },
-      { name: 'HTML/CSS', icon: '/path/to/java-icon.png' },
-      { name: 'Bash', icon: '/path/to/java-icon.png' }
+      { name: 'C', icon: '/path/to/c-icon.png' },
+      { name: 'SQL', icon: '/path/to/sql-icon.png' },
+      { name: 'PHP', icon: '/path/to/php-icon.png' },
+      { name: 'HTML/CSS', icon: '/path/to/html/css-icon.png' },
+      { name: 'Bash', icon: '/path/to/bash-icon.png' }
     ],
     'Frameworks & Tools': [
       { name: 'React', icon: '/path/to/react-icon.png' },

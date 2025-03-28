@@ -13,5 +13,6 @@ export default defineConfig({
     fs: {
       caseSensitive: true
     }
-  }
+  },
+  base: '/Portfolio/',
 })
