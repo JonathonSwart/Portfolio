@@ -94,7 +94,7 @@ const Portfolio = () => {
             website ideas.
             </p>
             <div className="flex space-x-4 mb-6">
-              <a href="/Resume.pdf" target="_blank" className="bg-white text-blue-600 px-6 py-3 rounded-full flex items-center hover:bg-blue-100 transition">
+              <a href={`${import.meta.env.BASE_URL}Resume.pdf`} target="_blank" className="bg-white text-blue-600 px-6 py-3 rounded-full flex items-center hover:bg-blue-100 transition">
                 <FileDown className="mr-2" /> View Resume
               </a>
               <div className="flex space-x-4 items-center">
