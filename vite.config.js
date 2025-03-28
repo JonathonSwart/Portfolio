@@ -8,11 +8,10 @@ export default defineConfig({
       '@': '/src'
     }
   },
-  // Add this to resolve case sensitivity
   server: {
     fs: {
       caseSensitive: true
     }
   },
-  base: '/Portfolio/',
+  base: '/Portfolio/'
 })
