@@ -43,14 +43,14 @@ const Portfolio = () => {
       description: 'Full-stack application with real-time collaboration features and advanced task tracking.',
       technologies: ['Python', 'Flask', 'HTML/CSS', 'Google API'],
       githubLink: 'https://github.com/JonathonSwart/FoodBank-Finder-Hackathon-Winner',
-      image: '/Portfolio/public/FoodBank Finder.gif'
+      image: '/FoodBank Finder.gif'
     },
     {
       title: 'QBNB',
       description: "Developed a functional 'Airbnb' replica following SCRUM methodology to ensure a high quality and error-free performance.",
       technologies: ['Python', 'Flask', 'SQLAlchemy', 'Selenium', 'HTML/CSS', 'Docker'],
       githubLink: 'https://github.com/JonathonSwart/CISC-327-Group-Project',
-      image: '/Portfolio/public/qbnb.png'
+      image: '/qbnb.png'
     }
   ];
 
