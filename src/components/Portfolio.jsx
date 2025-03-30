@@ -106,7 +106,7 @@ const Portfolio = () => {
           </div>
           <div className="md:w-1/3 mt-8 md:mt-0">
             <img 
-              src={`${import.meta.env.BASE_URL}headshot.png`} 
+              src={`${import.meta.env.BASE_URL}headshot.PNG`} 
               alt="Profile" 
               className="rounded-full border-4 border-white shadow-lg"
             />
