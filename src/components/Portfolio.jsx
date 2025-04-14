@@ -19,7 +19,7 @@ const Portfolio = () => {
       { name: 'SQL', icon: '/path/to/sql-icon.png' },
       { name: 'PHP', icon: '/path/to/php-icon.png' },
       { name: 'HTML/CSS', icon: '/path/to/html/css-icon.png' },
-      { name: 'Bash', icon: '/path/to/bash-icon.png' }
+      { name: 'TypeScript', icon: '/path/to/bash-icon.png' }
     ],
     'Frameworks & Tools': [
       { name: 'React', icon: '/path/to/react-icon.png' },
@@ -63,6 +63,7 @@ const Portfolio = () => {
         'Enhanced an Automated Reporting System: Leveraged Power BI, Power Automate, OpenPyXL, Pandas, and Azure to build and enhance reporting features.',
         'Utilized Postman, Python, and Sharepoint to test and resolve backend issues in the reporting system, improving system performance and accuracy.',
         'Collaborated closely with end-users to define and implement new functionalities.',
+        'Participated in bi-daily SCRUM meetings to align on development goals.',
         'Enhanced test cases to improve the response time of the system by 85%.',
         'Developed a Web Application: Engineered a web app using FastAPI, JavaScript and websockets for seamless interaction with a Dockerized PostgreSQL database.',
         'Integrated a secure, cookie-based system for user information storage and retrieval, ensuring a streamlined and protected user experience.'
@@ -73,8 +74,8 @@ const Portfolio = () => {
       position: 'Software Developer',
       duration: 'May 2022 - August 2022',
       highlights: [
-        'Developed and enhanced automated systems that provide clients with accurate insurance policies and premiums with 98% accuracy.',
-        "Engineered programs with the company's proprietary language to interface with a variety of file types for backend automated systems to access with 100% accuracy and utilize for computation.",
+        'Developed and enhanced rules that provide clients with accurate insurance policies and premiums with 98% accuracy.',
+        "Engineered programs with the company's proprietary language to interface with a variety of file types for backend automated systems to access and utilize for computation.",
         'Quantified and verified a high level of quality by employing a test driven development cycle.'
       ]
     }
