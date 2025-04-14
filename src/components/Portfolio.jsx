@@ -47,7 +47,7 @@ const Portfolio = () => {
     },
     {
       title: 'QBNB',
-      description: "Developed a functional 'Airbnb' replica following SCRUM methodology to ensure a high quality and error-free performance.",
+      description: "Developed a functional 'Airbnb' replica following Agile methodology to ensure a high quality and error-free performance.",
       technologies: ['Python', 'Flask', 'SQLAlchemy', 'Selenium', 'HTML/CSS', 'Docker'],
       githubLink: 'https://github.com/JonathonSwart/CISC-327-Group-Project',
       image: `${import.meta.env.BASE_URL}qbnb.png`
